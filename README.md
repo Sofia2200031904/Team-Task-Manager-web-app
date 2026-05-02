@@ -150,6 +150,9 @@ npm run build --prefix client
    - Start: `npm run railway:start`
 
 ## Submission Placeholders
-- Live URL: `ADD_YOUR_RAILWAY_URL_HERE`
-- GitHub Repo: `ADD_YOUR_GITHUB_REPO_URL_HERE`
-- Demo Video: `ADD_YOUR_VIDEO_LINK_HERE`
+- Live URL: https://resonant-zuccutto-32b427.netlify.app/login
+
+
+
+
+  
