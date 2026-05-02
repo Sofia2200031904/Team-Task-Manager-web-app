@@ -1,0 +1,28 @@
+{
+  "name": "2200031904_team-task-manager-web-app",
+  "version": "1.0.0",
+  "description": "Full-stack Team Task Manager (React + Express + MongoDB)",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install --prefix server && npm install --prefix client",
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "build": "npm run build --prefix client",
+    "start": "npm run start --prefix server",
+    "railway:build": "npm run build --prefix client",
+    "railway:start": "npm run start --prefix server"
+  },
+  "keywords": [
+    "team-task-manager",
+    "react",
+    "express",
+    "mongodb",
+    "railway"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
