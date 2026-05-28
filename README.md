@@ -140,19 +140,6 @@ npm run build --prefix client
 2. Create Railway project from GitHub repo
 3. Set server environment variables:
 
-https://github.com/user-attachments/assets/a1943d83-188f-43c8-8546-a05ba6b0f09d
-
-
-
-https://github.com/user-attachments/assets/d74a727f-77bd-4e62-8ef9-3d0d3a8c4f28
-
-
-
-
-
-
-
-
    - `MONGODB_URI`
    - `JWT_SECRET`
    - `JWT_EXPIRES_IN=7d`
@@ -167,6 +154,11 @@ https://github.com/user-attachments/assets/d74a727f-77bd-4e62-8ef9-3d0d3a8c4f28
 ## Submission Placeholders
 - Live URL: https://resonant-zuccutto-32b427.netlify.app/login
 
+
+## Demo
+
+
+https://github.com/user-attachments/assets/7afc8d33-68b0-4d35-b7be-cb640d3355b7
 
 
 
