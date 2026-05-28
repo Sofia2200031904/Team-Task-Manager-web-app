@@ -154,7 +154,8 @@ npm run build --prefix client
 - Live URL: https://resonant-zuccutto-32b427.netlify.app/login
 
 
-## Demo[team-task-manager-demo.webm](https://github.com/user-attachments/assets/1c28b0c8-cf2f-4dc9-bfeb-861ff323a4a1)
+## Demo
+[team-task-manager-demo.webm](https://github.com/user-attachments/assets/1c28b0c8-cf2f-4dc9-bfeb-861ff323a4a1)
 
 
   
