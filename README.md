@@ -149,10 +149,12 @@ npm run build --prefix client
    - Build: `npm run railway:build`
    - Start: `npm run railway:start`
 
+
 ## Submission Placeholders
 - Live URL: https://resonant-zuccutto-32b427.netlify.app/login
 
 
+## Demo[team-task-manager-demo.webm](https://github.com/user-attachments/assets/1c28b0c8-cf2f-4dc9-bfeb-861ff323a4a1)
 
 
   
